@@ -1,0 +1,10 @@
+c:\Users\User\Documents\code\rust\nannou-sketches-2021\target\rls\debug\deps\futures_channel-dad46cb0782216c2.rmeta: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\lock.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\mod.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\queue.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\sink_impl.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\oneshot.rs
+
+c:\Users\User\Documents\code\rust\nannou-sketches-2021\target\rls\debug\deps\futures_channel-dad46cb0782216c2.d: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\lock.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\mod.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\queue.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\sink_impl.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\oneshot.rs
+
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\lib.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\lock.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\mod.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\queue.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\mpsc\sink_impl.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.9\src\oneshot.rs:
